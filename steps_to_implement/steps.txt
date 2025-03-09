@@ -1,0 +1,17 @@
+1. Scatter points
+
+2. Divide the featues based on independent and dependent features
+
+3. Train test split
+
+4. Standardize the data of x(train and test)
+
+5. Train the model
+
+6. check the coefficient and intercept
+
+7. check with performance matrics
+
+8. use new data
+
+9. check for assumptions
